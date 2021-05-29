@@ -6,11 +6,7 @@ I am the author of this hilarious readme, Yes, this what I do in life, nothing m
 
 I am a Software Engineer, I work and live in Berlin.
 
-- I am Egyptian and this is a nice part in my life :egypt: :heart:
-
 - I use rails to break down stuff, but I use ruby to fix it.
-
-- I use my mind, and it’s something rare nowadays, believe me!
 
 - This is my Linkedin, I am not an active writer there <a href="https://www.linkedin.com/in/mohamedbarakats/">But they say that it’s professional to have one</a> :man:
 
