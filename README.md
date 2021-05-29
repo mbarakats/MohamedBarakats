@@ -1,6 +1,6 @@
 ### Hi there :wave: :sparkles: 
 
-I am the author of this hilarious readme, Yes, this what I do in life, nothing more! :shipit:
+I am the owner of this hilarious account, Yes, this what I do in life, nothing more! :shipit:
 
 <img src="https://github.com/MohamedBarakats/MohamedBarakats/blob/master/1.png" alt="photo for Mohamed Barakat Github Profile - Software Engineer">
 
